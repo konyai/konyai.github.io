@@ -1,0 +1,76 @@
+---
+pagetitle: "István Kónya — Economist"
+description: "Academic economist working on macroeconomics, labor markets, and the Hungarian and European economies."
+---
+
+:::::: hero
+:::: hero-copy
+<p class="eyebrow">
+
+Economist · Budapest
+
+</p>
+
+# Research on macroeconomics and labor markets
+
+I am an academic economist at **Corvinus University of Budapest** and the **Centre for Economic and Regional Studies**. My work studies labor-market dynamics, macroeconomic adjustment, and the Hungarian and European economies.
+
+::: hero-actions
+[Explore research](research.qmd){.button .button-primary} [Download CV](files/konya-cv.pdf){.button .button-secondary}
+:::
+::::
+
+::: portrait
+```{=html}
+<img
+  src="files/konya_portrait_2026.jpg"
+  alt="Portrait of István Kónya"
+  class="portrait-image"
+>
+```
+:::
+::::::
+
+::::::: home-grid
+::: section-intro
+## Current research
+:::
+
+::::: featured-papers
+::: paper-card
+[Research in progress · 2026]{.paper-status}
+
+### Job Market Transitions
+
+#### Identification from cross-sectional data
+
+How much can repeated cross-sections reveal about labor-market flows? This project develops measures using public European data.
+
+[Paper](#){.paper-link}
+:::
+
+::: paper-card
+[Working paper]{.paper-status}
+
+### Multinational Firms and the Labor Share
+
+#### A search-and-matching perspective
+
+A structural account of how foreign-firm entry, productivity differences, and wage bargaining shape aggregate labor income.
+
+[Project summary](#){.paper-link}
+:::
+:::::
+:::::::
+
+::::: contact-strip
+::: contact-heading
+## Contact me
+:::
+
+::: contact-details
+For seminars, or research questions, send me an email.
+
+[istvan.konya \[at\] uni-corvinus \[dot\] hu]{.email-obfuscated}
+:::
+:::::

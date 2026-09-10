@@ -1,0 +1,47 @@
+---
+pagetitle: "Curriculum vitae"
+---
+
+::: page-heading
+# Curriculum Vitae {.cv-title}
+:::
+
+::: {.page-heading .cv-heading}
+[Download the complete CV](files/cv-konya.pdf){.button .button-primary}
+:::
+
+::::: cv-layout
+::: cv-sidebar
+## Contact
+
+Corvinus University of Budapest\
+Budapest, Hungary
+
+[istvan.konya\@uni-corvinus.hu](mailto:istvan.konya@uni-corvinus.hu)
+
+## Fields
+
+Macroeconomics\
+Labor economics\
+European economies
+:::
+
+::: cv-main
+## Appointments
+
+**Corvinus University of Budapest**\
+Full professor · 2021–present\
+Dean, Corvinus Doctoral Schools · 2022-present
+
+**Centre for Economic and Regional Studies**\
+Research advisor · 2018–present
+
+## Education
+
+**PhD in Economics**, Northwestern University · 2001
+
+## Languages
+
+Hungarian · English
+:::
+:::::
