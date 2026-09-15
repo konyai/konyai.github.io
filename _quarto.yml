@@ -1,32 +1,26 @@
 project:
   type: website
-  output-dir: dist
+  output-dir: docs
+  resources:
+    - files/cv-konya.pdf
 
 website:
   title: "István Kónya"
-  description: "Academic economist — research, publications, and teaching"
+
   navbar:
+    title: "Home"
     pinned: true
-    title: "István Kónya"
-    right:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
+    left:
+      - href: work.qmd
+        text: Work in progress
+      - href: publications.qmd
+        text: Publications
       - href: teaching.qmd
         text: Teaching
-      - href: cv.qmd
-        text: CV
-  page-footer:
-    left: "© István Kónya"
-    right: "Built with Quarto"
-  search: false
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: flatly
+    max-width: 1100px
     toc: false
-    anchor-sections: false
     smooth-scroll: true
-

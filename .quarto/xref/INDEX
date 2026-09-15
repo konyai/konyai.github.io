@@ -10,5 +10,14 @@
   },
   "cv.qmd": {
     "cv.html": "daa05014"
+  },
+  "index.qmd.old.qmd": {
+    "index.qmd.old.html": "8039f3a0"
+  },
+  "work.qmd": {
+    "work.html": "e5620451"
+  },
+  "publications.qmd": {
+    "publications.html": "d3b930f5"
   }
 }

@@ -2,41 +2,24 @@
 description: "Courses and teaching materials by István Kónya"
 ---
 
-::: page-heading
-# Teaching {.cv-title}
+# Recent teaching
 
 My courses connect macroeconomic models and ideas with reproducible empirical work, primarily using Matlab, R and public international datasets.
-:::
-
-::: {.course-grid}
-::: {.course-card}
-<span class="course-level">BA</span>
 
 ## Empirical Macroeconomics
 
 Macroeconomic measurement and comparison using Eurostat, OECD, World Bank, and FRED data. Topics include growth, inflation, labor markets, productivity, and monetary integration. In Hungarian.
 
-[Syllabus](files/syllabus_empirical.pdf){.paper-link}
-:::
-
-::: {.course-card}
-<span class="course-level">PhD</span>
+[Syllabus](files/syllabus_empirical.pdf)
 
 ## Advanced Macroeconomics
 
 Modern macroeconomic models, quantitative methods, and applications to policy questions.
 
-[Syllabus](/files/syllabus_macro.pdf){.paper-link}
-:::
-
-::: {.course-card}
-<span class="course-level">MA</span>
+[Syllabus](/files/syllabus_macro.pdf)
 
 ## Economics of Underdevelopment
 
 A policy-oriented course on the many aspects of underdevelopment, using basci economic reasoning and stylized facts. 
 
-[Syllabus](files/syllabus_underdevelopment.pdf){.paper-link}
-:::
-
-
+[Syllabus](files/syllabus_underdevelopment.pdf)

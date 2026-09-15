@@ -1,76 +1,26 @@
 ---
-pagetitle: "István Kónya — Economist"
-description: "Academic economist working on macroeconomics, labor markets, and the Hungarian and European economies."
+title: "István Kónya"
+image: files/konya_portrait_2026.jpg
+
+about:
+  template: solana
+  image-width: 15em
+  image-shape: rectangle
+  links:
+    - icon: file-earmark-person
+      text: CV
+      href: files/cv-konya.pdf
+    - icon: github
+      text: GitHub
+      href: https://github.com/konyai
 ---
 
-:::::: hero
-:::: hero-copy
-<p class="eyebrow">
+I am a full professor at [Corvinus University of Budapest](https://www.uni-corvinus.hu/?lang=en) and a part-time researcher at the [Centre for Economic and Regional Studies](https://kti.krtk.hu/en/).
 
-Economist · Budapest
+My research focuses on macroeconomics, labor markets, income distribution and European economic adjustment.
 
-</p>
+I earned my PhD in Economics at Northwestern University in 2001. I previously held positions at Boston College, Magyar Nemzeti Bank (the central bank of Hungary) and at the University of Pécs. Between 2004-2024, I was an adjunct professor at Central European University.
 
-# Research on macroeconomics and labor markets
+## Contact
 
-I am an academic economist at **Corvinus University of Budapest** and the **Centre for Economic and Regional Studies**. My work studies labor-market dynamics, macroeconomic adjustment, and the Hungarian and European economies.
-
-::: hero-actions
-[Explore research](research.qmd){.button .button-primary} [Download CV](files/konya-cv.pdf){.button .button-secondary}
-:::
-::::
-
-::: portrait
-```{=html}
-<img
-  src="files/konya_portrait_2026.jpg"
-  alt="Portrait of István Kónya"
-  class="portrait-image"
->
-```
-:::
-::::::
-
-::::::: home-grid
-::: section-intro
-## Current research
-:::
-
-::::: featured-papers
-::: paper-card
-[Research in progress · 2026]{.paper-status}
-
-### Job Market Transitions
-
-#### Identification from cross-sectional data
-
-How much can repeated cross-sections reveal about labor-market flows? This project develops measures using public European data.
-
-[Paper](#){.paper-link}
-:::
-
-::: paper-card
-[Working paper]{.paper-status}
-
-### Multinational Firms and the Labor Share
-
-#### A search-and-matching perspective
-
-A structural account of how foreign-firm entry, productivity differences, and wage bargaining shape aggregate labor income.
-
-[Project summary](#){.paper-link}
-:::
-:::::
-:::::::
-
-::::: contact-strip
-::: contact-heading
-## Contact me
-:::
-
-::: contact-details
-For seminars, or research questions, send me an email.
-
-[istvan.konya \[at\] uni-corvinus \[dot\] hu]{.email-obfuscated}
-:::
-:::::
+istvan.konya \[at\] uni-corvinus \[dot\] hu

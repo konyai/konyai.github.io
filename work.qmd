@@ -1,0 +1,35 @@
+---
+pagetitle: "Work in progress — István Kónya"
+---
+
+### Job Market Transitions: Identification from Cross-Sectional Data
+
+**István Kónya**
+
+It is common practice to compute labor market transition rates assuming that the economically relevant transitions occur between employment and unemployment only and using data on unemployment duration. However, if there are significant flows between labor force participation and inactivity, ignoring the participation margin can lead to biased results. This paper proposes an alternative approach based on a three-state framework that is easily estimable using publicly available data on labor market stocks and employment tenure. We show that such data carries more, and more relevant information than unemployment duration, including information on job-to-job transitions.
+
+[PDF](files/laborflows_2026-01.pdf) · [Slides](files/laborflows_EcoMod_2026.pdf)
+
+### Labor share, FDI and Productivity
+
+**István Kónya** · **Judit Krekó**
+
+This paper examines how foreign direct investment affects the labor share through productivity differences between foreign- and domestically owned firms. We develop a search-and-matching model in which more productive foreign firms acquire domestic firms. Foreign ownership raises productivity and wages, but incomplete pass-through of the productivity advantage to workers reduces the labor share. Using European industry-level data, we find that greater foreign employment penetration is associated with lower labor shares and that the foreign productivity premium substantially exceeds the foreign wage premium. Hungarian administrative firm data show the same pattern: foreign-owned firms have higher productivity and labor costs but lower labor shares. Event-study estimates around foreign acquisitions are less precise but are consistent with this mechanism at longer horizons. Our results show how economies with a large foreign-owned sector can combine relatively high wages with relatively low labor shares and highlight persistent foreign–domestic productivity differences as a potential explanation for labor-share differences across Europe.
+
+[PDF](https://unipub.lib.uni-corvinus.hu/13271/1/cewp_202604.pdf)
+
+### Financial crisis and inequality in Hungary
+
+**István Kónya** · **Klára Major**
+
+The goal of this paper is to analyze the connections Hungarian income and wealth distribution on the one hand, and the macroeconomics impacts of the global financial crisis of 2007-2008 on the other hand. To do this, I build a heterogenous agent, dynamic, general equilibrium model, which I calibrate using Hungarian income distribution data before the crisis. The model is then used to study both the impact of the financial crisis on income and wealth inequality, and the role of income and wealth inequality in the macroeconomic developments after the crisis. Results indicate that (i) the long-run capital stock rises, and the interest rate falls, but the effect is quantitatively small; (ii) the long-run income and wealth distributions only change moderately; and (iii) the short-run consumption response of low-wealth household is very strong, and drives a sizable aggregate consumption drop as well.
+
+[PDF](https://kti.krtk.hu/wp-content/uploads/2021/08/CERSIEWP202132.pdf) · [Slides](files/inequality_ecomod_2025.pdf)
+
+### Wage bargaining, relative prices and capital: the impact of immigration on wages and wage inequality
+
+**István Kónya** · **Miklós Váry**
+
+This paper develops a model of immigration that encompasses different channels through which immigration impacts native wages. The framework incorporates a frictional labor market with different outside options for immigrants and natives, local demand conditions captured by relative prices, and capital-labor substitution. The model is calibrated on labor data for the four largest European Union economies, France, Germany, Italy and Spain. Three counterfactual scenarios are explored, where the adjustment speed of the capital stock and the sensitivity of domestic relative prices to immigration differ. Results shows that the impact of immigration on wages and wages inequality depends crucially on the latter factor, i.e. whether relative prices are determined by local vs. global conditions. In the former case, the migration pattern observed in the data has led to a non-negligible increase in native wage inequality. In the latter case, migration skewed towards the low-skilled has led to a (quantitatively small) decrease in native wage inequality, due to the lower wage bargaining power of immigrants who compete with native workers.
+
+[PDF](files/migrate_ineq_cap.pdf){.paper-link} · [Slides](files/migrate_ecomod.pdf){.paper-link}
