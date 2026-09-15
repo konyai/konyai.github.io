@@ -6,6 +6,7 @@ project:
 
 website:
   title: "István Kónya"
+  favicon: files/ik.png
 
   navbar:
     title: "Home"
